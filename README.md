@@ -19,3 +19,13 @@ Silvio Santos Ipsum ma tem ou no tem o celular do milhãouamm? Ma tem ou no tem 
 - Item 02
 + Item 03
 
+## Trabalhando com Bloco de Códigos
+
+```
+Quando não quero identificar a linguagem com a qual estou trabalhando.
+```
+
+```javascript
+	var s= "Atribuindo valores a uma variavel";
+	alert(s);
+```	
